@@ -1,0 +1,31 @@
+{
+  "name": "EVLens",
+  "identifier": "org.my7x.evlens.source",
+  "apps": [
+    {
+      "name": "EVLens",
+      "bundleIdentifier": "org.my7x.evlens.km",
+      "developerName": "my7x",
+      "subtitle": "Zeekr 7X monitor",
+      "localizedDescription": "EVLens \u2014 a cloud-free Zeekr 7X / EV charging monitor.",
+      "iconURL": "https://raw.githubusercontent.com/kjkkm/zeekrmon-releases/main/evlens-icon.png",
+      "tintColor": "F05600",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.6.8",
+          "date": "2026-10-04",
+          "localizedDescription": "ZeekrMon Android APK, built from `evlens-v1.6.8` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
+          "downloadURL": "https://github.com/kjkkm/zeekrmon-releases/releases/download/evlens-v1.6.8/evlens-1.6.8.ipa",
+          "size": 24895763,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "version": "1.6.8",
+      "versionDate": "2026-10-04",
+      "versionDescription": "ZeekrMon Android APK, built from `evlens-v1.6.8` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
+      "downloadURL": "https://github.com/kjkkm/zeekrmon-releases/releases/download/evlens-v1.6.8/evlens-1.6.8.ipa",
+      "size": 24895763
+    }
+  ]
+}
