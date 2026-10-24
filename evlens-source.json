@@ -13,6 +13,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.7.33",
+          "date": "2026-10-24",
+          "localizedDescription": "ZeekrMon Android APK, built from `evlens-v1.7.33` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
+          "downloadURL": "https://github.com/kjkkm/zeekrmon-releases/releases/download/evlens-v1.7.33/evlens-1.7.33.ipa",
+          "size": 25333567,
+          "minOSVersion": "13.0"
+        },
+        {
           "version": "1.7.32",
           "date": "2026-10-24",
           "localizedDescription": "ZeekrMon Android APK, built from `evlens-v1.7.32` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
@@ -293,11 +301,11 @@
           "minOSVersion": "13.0"
         }
       ],
-      "version": "1.7.32",
+      "version": "1.7.33",
       "versionDate": "2026-10-24",
-      "versionDescription": "ZeekrMon Android APK, built from `evlens-v1.7.32` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
-      "downloadURL": "https://github.com/kjkkm/zeekrmon-releases/releases/download/evlens-v1.7.32/evlens-1.7.32.ipa",
-      "size": 25325398
+      "versionDescription": "ZeekrMon Android APK, built from `evlens-v1.7.33` (mobile-v1 branch).\nSide-load only \u2014 signed with the dedicated ZeekrMon release keystore (stable\nacross releases, so this upgrades in place over any earlier release install).",
+      "downloadURL": "https://github.com/kjkkm/zeekrmon-releases/releases/download/evlens-v1.7.33/evlens-1.7.33.ipa",
+      "size": 25333567
     }
   ]
 }
